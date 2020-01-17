@@ -5,6 +5,7 @@ Based on CMC-Integration-Test.
 
 ## Getting Started
 
+
 ### Prerequisites
 * [Docker](https://www.docker.com/)
 * You might need to increase the allocated memory for docker ( up to 6G to 8G ) 
